@@ -1,4 +1,4 @@
 
-| Technology | Provider | Description | Link | Expiration |
-| --- | --- | --- | --- | --- |
-| Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
+| Technology | Provider | Link | Expiration |
+| --- | --- | --- | --- |
+| Gitlab Certification | Gitlab | [Link](https://about.gitlab.com/learn/) | Unknown |
