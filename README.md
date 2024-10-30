@@ -1,4 +1,4 @@
 
 | Technology | Provider | Link | Expiration |
 | --- | --- | --- | --- |
-| Gitlab Certification | Gitlab | [Link](https://about.gitlab.com/learn/) | Unknown |
+| Kubernetes Fundamentals | Datadog | [Link](https://learn.datadoghq.com/bundles/k8s-fundamentals) | Unknown |
